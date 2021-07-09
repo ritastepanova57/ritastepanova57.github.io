@@ -1,0 +1,1438 @@
+.close1 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close1:hover,
+.close1:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+.close9 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close9:hover,
+.close9:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+a {
+    cursor: pointer;
+    text-decoration: none;
+    color: #000;
+}
+.mobile-logo {
+    width: 300px;
+    margin: 0 auto;
+}
+
+.modal-input {
+    -webkit-backface-visibility: hidden;
+	background: #fff;
+	border: solid 1px #e6eaf3;
+	box-sizing: border-box;
+	border-radius: 24px;
+	outline: 0;
+	padding: 15px 59px;
+	-webkit-appearance: none;
+	outline-offset: 0;
+	width: 100%;
+	text-align: center;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+.modall-buttom {
+    background: linear-gradient(180deg, #FFB187 0%, #BE5D28 100%);
+    box-shadow: 0px 10px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 50px;
+    color: #FFFDFC;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 19px;
+    padding: 15px 59px;
+    text-decoration: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-color: transparent;
+    border-width: 0px;
+}
+.modall-buttom:hover {
+    background: linear-gradient(150deg, #BE5D28  0%, #FFB187 100%);
+}
+.modal1 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.modal2 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 100; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.modal-input {
+    -webkit-backface-visibility: hidden;
+	background: #fff;
+	border: solid 1px #e6eaf3;
+	box-sizing: border-box;
+	border-radius: 24px;
+	outline: 0;
+	padding: 15px 59px;
+	-webkit-appearance: none;
+	outline-offset: 0;
+	width: 100%;
+	text-align: center;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+.modal2-buttom {
+    background: linear-gradient(180deg, #FFB187 0%, #BE5D28 100%);
+    box-shadow: 0px 10px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 50px;
+    color: #FFFDFC;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 19px;
+    padding: 15px 59px;
+    text-decoration: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-color: transparent;
+    border-width: 0px;
+}
+.modal2-buttom:hover {
+    background: linear-gradient(150deg, #BE5D28  0%, #FFB187 100%);
+}
+
+.modal2 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 10000; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.modal-content {
+    background: rgb(90,131,249);
+    background: linear-gradient(90deg, rgba(90,131,249,1) 0%, rgba(57,167,255,1) 50%, rgba(90,131,249,1) 100%);
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 300px;
+    text-align: center;
+  
+}
+.modal-content4 {
+    background: rgb(90,131,249);
+    background: linear-gradient(90deg, rgba(90,131,249,1) 0%, rgba(57,167,255,1) 50%, rgba(90,131,249,1) 100%);
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 800px;
+    text-align: center;
+    padding: 10px;
+  
+}
+
+
+.moda1 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 100; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.moda1-buttom {
+    background: linear-gradient(180deg, #FFB187 0%, #BE5D28 100%);
+    box-shadow: 0px 10px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 50px;
+    color: #FFFDFC;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 19px;
+    padding: 15px 59px;
+    text-decoration: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-color: transparent;
+    border-width: 0px;
+}
+.moda1-buttom:hover {
+    background: linear-gradient(150deg, #BE5D28  0%, #FFB187 100%);
+}
+
+.moda1 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 100; /* Sit on top */
+    padding-top: 50px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.close1 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close1:hover,
+.close1:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+.moda2 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 100; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.moda2-buttom {
+    background: linear-gradient(180deg, #FFB187 0%, #BE5D28 100%);
+    box-shadow: 0px 10px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 50px;
+    color: #FFFDFC;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 19px;
+    padding: 15px 59px;
+    text-decoration: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-color: transparent;
+    border-width: 0px;
+}
+.moda2-buttom:hover {
+    background: linear-gradient(150deg, #BE5D28  0%, #FFB187 100%);
+}
+
+.moda2 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1000; /* Sit on top */
+    padding-top: 50px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.close2 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close2:hover,
+.close2:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+
+.moda3 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 100; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.moda3-buttom {
+    background: linear-gradient(180deg, #FFB187 0%, #BE5D28 100%);
+    box-shadow: 0px 10px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 50px;
+    color: #FFFDFC;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 19px;
+    padding: 15px 59px;
+    text-decoration: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-color: transparent;
+    border-width: 0px;
+}
+.moda3-buttom:hover {
+    background: linear-gradient(150deg, #BE5D28  0%, #FFB187 100%);
+}
+
+.moda3 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1000; /* Sit on top */
+    padding-top: 50px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.close3 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close3:hover,
+.close3:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+
+.moda4 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 100; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.moda4-buttom {
+    background: linear-gradient(180deg, #FFB187 0%, #BE5D28 100%);
+    box-shadow: 0px 10px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 50px;
+    color: #FFFDFC;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 19px;
+    padding: 15px 59px;
+    text-decoration: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-color: transparent;
+    border-width: 0px;
+}
+.moda4-buttom:hover {
+    background: linear-gradient(150deg, #BE5D28  0%, #FFB187 100%);
+}
+
+.moda4 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1000; /* Sit on top */
+    padding-top: 50px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.close4 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close4:hover,
+.close4:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+
+
+.moda5 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 100; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.moda5-buttom {
+    background: linear-gradient(180deg, #FFB187 0%, #BE5D28 100%);
+    box-shadow: 0px 10px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 50px;
+    color: #FFFDFC;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 19px;
+    padding: 15px 59px;
+    text-decoration: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-color: transparent;
+    border-width: 0px;
+}
+.moda5-buttom:hover {
+    background: linear-gradient(150deg, #BE5D28  0%, #FFB187 100%);
+}
+
+.moda5 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1000; /* Sit on top */
+    padding-top: 50px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.close5 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close5:hover,
+.close5:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+.moda6 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 100; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.moda6-buttom {
+    background: linear-gradient(180deg, #FFB187 0%, #BE5D28 100%);
+    box-shadow: 0px 10px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 50px;
+    color: #FFFDFC;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 19px;
+    padding: 15px 59px;
+    text-decoration: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-color: transparent;
+    border-width: 0px;
+}
+.moda6-buttom:hover {
+    background: linear-gradient(150deg, #BE5D28  0%, #FFB187 100%);
+}
+
+.moda6 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1000; /* Sit on top */
+    padding-top: 50px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.close6 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close6:hover,
+.close6:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+
+.moda7 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 100; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.moda7-buttom {
+    background: linear-gradient(180deg, #FFB187 0%, #BE5D28 100%);
+    box-shadow: 0px 10px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 50px;
+    color: #FFFDFC;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 19px;
+    padding: 15px 59px;
+    text-decoration: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-color: transparent;
+    border-width: 0px;
+}
+.moda7-buttom:hover {
+    background: linear-gradient(150deg, #BE5D28  0%, #FFB187 100%);
+}
+
+.moda7 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1000; /* Sit on top */
+    padding-top: 50px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.close7 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close7:hover,
+.close7:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+.moda8 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 100; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.moda8-buttom {
+    background: linear-gradient(180deg, #FFB187 0%, #BE5D28 100%);
+    box-shadow: 0px 10px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 50px;
+    color: #FFFDFC;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 19px;
+    padding: 15px 59px;
+    text-decoration: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-color: transparent;
+    border-width: 0px;
+}
+.moda8-buttom:hover {
+    background: linear-gradient(150deg, #BE5D28  0%, #FFB187 100%);
+}
+
+.moda8 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1000; /* Sit on top */
+    padding-top: 50px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.close8 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close8:hover,
+.close8:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+
+.moda9 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 100; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.moda9-buttom {
+    background: linear-gradient(180deg, #FFB187 0%, #BE5D28 100%);
+    box-shadow: 0px 10px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 50px;
+    color: #FFFDFC;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 19px;
+    padding: 15px 59px;
+    text-decoration: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-color: transparent;
+    border-width: 0px;
+}
+.moda9-buttom:hover {
+    background: linear-gradient(150deg, #BE5D28  0%, #FFB187 100%);
+}
+
+.moda9 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1000; /* Sit on top */
+    padding-top: 50px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.close90 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close90:hover,
+.close90:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+
+.moda10 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 100; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.moda10-buttom {
+    background: linear-gradient(180deg, #FFB187 0%, #BE5D28 100%);
+    box-shadow: 0px 10px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 50px;
+    color: #FFFDFC;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 19px;
+    padding: 15px 59px;
+    text-decoration: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-color: transparent;
+    border-width: 0px;
+}
+.moda10-buttom:hover {
+    background: linear-gradient(150deg, #BE5D28  0%, #FFB187 100%);
+}
+
+.moda10 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1000; /* Sit on top */
+    padding-top: 50px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.close10 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close10:hover,
+.close10:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+.moda11 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 100; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.moda11-buttom {
+    background: linear-gradient(180deg, #FFB187 0%, #BE5D28 100%);
+    box-shadow: 0px 10px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 50px;
+    color: #FFFDFC;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 19px;
+    padding: 15px 59px;
+    text-decoration: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-color: transparent;
+    border-width: 0px;
+}
+.moda11-buttom:hover {
+    background: linear-gradient(150deg, #BE5D28  0%, #FFB187 100%);
+}
+
+.moda11 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1000; /* Sit on top */
+    padding-top: 50px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.close11 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close11:hover,
+.close11:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+.moda13 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 100; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.moda13-buttom {
+    background: linear-gradient(180deg, #FFB187 0%, #BE5D28 100%);
+    box-shadow: 0px 10px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 50px;
+    color: #FFFDFC;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 19px;
+    padding: 15px 59px;
+    text-decoration: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-color: transparent;
+    border-width: 0px;
+}
+.moda13-buttom:hover {
+    background: linear-gradient(150deg, #BE5D28  0%, #FFB187 100%);
+}
+
+.moda13 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1000; /* Sit on top */
+    padding-top: 50px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.close13 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close13:hover,
+.close13:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+
+
+
+.moda23 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 100; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.moda23-buttom {
+    background: linear-gradient(180deg, #FFB187 0%, #BE5D28 100%);
+    box-shadow: 0px 10px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 50px;
+    color: #FFFDFC;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 19px;
+    padding: 15px 59px;
+    text-decoration: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-color: transparent;
+    border-width: 0px;
+}
+.moda23-buttom:hover {
+    background: linear-gradient(150deg, #BE5D28  0%, #FFB187 100%);
+}
+
+.moda23 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1000; /* Sit on top */
+    padding-top: 50px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.close23 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close23:hover,
+.close23:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+
+.moda24 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 100; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.moda24-buttom {
+    background: linear-gradient(180deg, #FFB187 0%, #BE5D28 100%);
+    box-shadow: 0px 10px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 50px;
+    color: #FFFDFC;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 19px;
+    padding: 15px 59px;
+    text-decoration: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-color: transparent;
+    border-width: 0px;
+}
+.moda24-buttom:hover {
+    background: linear-gradient(150deg, #BE5D28  0%, #FFB187 100%);
+}
+
+.moda24 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1000; /* Sit on top */
+    padding-top: 50px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.close24 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close24:hover,
+.close24:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+.moda25 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 100; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.moda25-buttom {
+    background: linear-gradient(180deg, #FFB187 0%, #BE5D28 100%);
+    box-shadow: 0px 10px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 50px;
+    color: #FFFDFC;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 19px;
+    padding: 15px 59px;
+    text-decoration: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-color: transparent;
+    border-width: 0px;
+}
+.moda25-buttom:hover {
+    background: linear-gradient(150deg, #BE5D28  0%, #FFB187 100%);
+}
+
+.moda25 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1000; /* Sit on top */
+    padding-top: 50px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.close25 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close25:hover,
+.close25:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+.moda26 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 100; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.moda26-buttom {
+    background: linear-gradient(180deg, #FFB187 0%, #BE5D28 100%);
+    box-shadow: 0px 10px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 50px;
+    color: #FFFDFC;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 19px;
+    padding: 15px 59px;
+    text-decoration: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-color: transparent;
+    border-width: 0px;
+}
+.moda26-buttom:hover {
+    background: linear-gradient(150deg, #BE5D28  0%, #FFB187 100%);
+}
+
+.moda26 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1000; /* Sit on top */
+    padding-top: 50px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.close26 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close26:hover,
+.close26:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+
+.moda27 {
+     display: none; /* Hidden by default */
+     position: fixed; /* Stay in place */
+     z-index: 100; /* Sit on top */
+     padding-top: 100px; /* Location of the box */
+     left: 0;
+     top: 0;
+     width: 100%; /* Full width */
+     height: 100%; /* Full height */
+     overflow: auto; /* Enable scroll if needed */
+     background-color: rgb(0,0,0); /* Fallback color */
+     background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+ }
+.moda27-buttom {
+    background: linear-gradient(180deg, #FFB187 0%, #BE5D28 100%);
+    box-shadow: 0px 10px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 50px;
+    color: #FFFDFC;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 19px;
+    padding: 15px 59px;
+    text-decoration: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-color: transparent;
+    border-width: 0px;
+}
+.moda27-buttom:hover {
+    background: linear-gradient(150deg, #BE5D28  0%, #FFB187 100%);
+}
+
+.moda27 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1000; /* Sit on top */
+    padding-top: 50px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.close27 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close27:hover,
+.close27:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+
+.moda28 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 100; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.moda28-buttom {
+    background: linear-gradient(180deg, #FFB187 0%, #BE5D28 100%);
+    box-shadow: 0px 10px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 50px;
+    color: #FFFDFC;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 19px;
+    padding: 15px 59px;
+    text-decoration: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-color: transparent;
+    border-width: 0px;
+}
+.moda28-buttom:hover {
+    background: linear-gradient(150deg, #BE5D28  0%, #FFB187 100%);
+}
+
+.moda28 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1000; /* Sit on top */
+    padding-top: 50px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.close28 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close28:hover,
+.close28:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+.moda29 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 100; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.moda29-buttom {
+    background: linear-gradient(180deg, #FFB187 0%, #BE5D28 100%);
+    box-shadow: 0px 10px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 50px;
+    color: #FFFDFC;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 19px;
+    padding: 15px 59px;
+    text-decoration: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-color: transparent;
+    border-width: 0px;
+}
+.moda29-buttom:hover {
+    background: linear-gradient(150deg, #BE5D28  0%, #FFB187 100%);
+}
+
+.moda29 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1000; /* Sit on top */
+    padding-top: 50px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.close29 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close29:hover,
+.close29:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+.moda30 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 100; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.moda30-buttom {
+    background: linear-gradient(180deg, #FFB187 0%, #BE5D28 100%);
+    box-shadow: 0px 10px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 50px;
+    color: #FFFDFC;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 19px;
+    padding: 15px 59px;
+    text-decoration: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-color: transparent;
+    border-width: 0px;
+}
+.moda30-buttom:hover {
+    background: linear-gradient(150deg, #BE5D28  0%, #FFB187 100%);
+}
+
+.moda30 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1000; /* Sit on top */
+    padding-top: 50px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.close30 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close30:hover,
+.close30:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+
+
+.moda31 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 100; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.moda31-buttom {
+    background: linear-gradient(180deg, #FFB187 0%, #BE5D28 100%);
+    box-shadow: 0px 10px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 50px;
+    color: #FFFDFC;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 19px;
+    padding: 15px 59px;
+    text-decoration: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-color: transparent;
+    border-width: 0px;
+}
+.moda31-buttom:hover {
+    background: linear-gradient(150deg, #BE5D28  0%, #FFB187 100%);
+}
+
+.moda31 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1000; /* Sit on top */
+    padding-top: 50px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+}
+.close31 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close31:hover,
+.close31:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}

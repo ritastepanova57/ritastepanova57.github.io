@@ -1,0 +1,270 @@
+@media  (max-width: 1420px) {
+    .bl2 {
+        width: 1000px;
+    }
+    .bl4 {
+        width: 1000px;
+    }
+    .bl1 {
+        width: 1000px;
+    }
+	 .bl1-1 {
+        width: 1000px;
+    }
+    .bl4-big-img {
+        height: auto;
+    }
+    .bl2-big-img {
+        height: auto;
+    }
+    .pading100 {
+        padding: 5px 40px;
+    }
+    .bl2-text {
+        height: 350px;
+    }
+    .bl4-text {
+        height: 350px;
+    }
+    .bl4-left {
+        height: 660px;
+    }
+    .bl4-right {
+        height: 660px;
+    }
+    .bl2-left {
+        height: 660px;
+    }
+    .bl2-right {
+        height: 660px;
+    }
+    .main-text{
+        font-size: 16px;
+    }
+}
+
+@media  (max-width: 1030px) {
+    .modal-content4 {
+        width: 310px;
+    }
+    .padding10 {
+        padding: 10px;
+    }
+    .popup50 {
+        width: 100%;
+    }
+    .bl1 {
+        width: 700px;
+    }
+	.bl1-1 {
+        width: 700px;
+    }
+    .bl2 {
+        width: 700px;
+    }
+    .bl3 {
+        width: 700px;
+    }
+    .bl4 {
+        width: 700px;
+    }
+    .bl5 {
+        width: 700px;
+    }
+    .bl6 {
+        width: 700px;
+    }
+    .bl7 {
+        width: 700px;
+    }
+    .bl2-left {
+        width: 100%;
+        height: auto;
+    }
+    .bl2-right {
+        width: 100%;
+        height: auto;
+    }
+    .bl4-left {
+        width: 100%;
+        height: auto;
+        order: -1;
+    }
+    .bl4-right {
+        width: 100%;
+        height: auto;
+    }
+    .flex-text1 {
+        width: 100%;
+        
+    }
+    .flex-img1 {
+        width: 100%;
+        
+    }
+    .flex-img2 {
+        width: 100%;
+        
+    }
+    .flex-text2 {
+        width: 100%;
+        order: -1;
+    }
+    .big-padding {
+        padding: 20px;
+        text-align: center;
+    }
+    .wrap-text {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    h2 {
+        font-size: 36px;
+        line-height: 36px;
+    }
+    .buttom {
+        font-size: 16px;
+        width: 190px;
+    }
+    nav>a {
+        font-size: 15px;
+        line-height: 14px;
+    }
+     
+    .otz {
+        width: 360px;
+        margin: 0 auto 20px;
+    }
+}
+
+@media  (max-width: 720px) {
+    .bl1 {
+        width: 450px;
+    }
+	 .bl1-1 {
+        width: 450px;
+    }
+    .bl2 {
+        width: 450px;
+    }
+    .bl3 {
+        width: 450px;
+    }
+    .bl4 {
+        width: 450px;
+    }
+    .bl5 {
+        width: 450px;
+    }
+    .bl6 {
+        width: 450px;
+    }
+    .bl7 {
+        width: 450px;
+    }
+    nav {
+        display: none;
+    }
+    #logo {
+        padding-bottom: 0px;
+    }
+    .bl2-text {
+        height: auto;
+    }
+    .bl2-img {
+        height: auto;
+    }
+    .vitrina {
+        width: 320px;
+        margin: 0 auto 20px;
+    }
+    .bl3-desk {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .new {
+        font-size: 24px;
+        line-height: 24px;
+    }
+    .old {
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .bl4-text {
+        height: auto;
+    }
+    .bl4-img {
+        height: auto;
+    }
+    .wrap-text {
+        font-size: 18px;
+    }
+    .bl5-title {
+        font-size: 30px;
+        line-height: 30px;
+        margin-bottom: 15px;
+    }
+    .table tbody td {
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .table thead th {
+        font-size: 18px;
+        line-height: 18px;
+    }
+    .text-otz {
+        font-size: 18px;
+        line-height: 20px;
+    }
+}
+
+@media  (max-width: 480px) {
+    .bl1 {
+        width: 310px;
+        margin: 0 auto;
+    }
+	.bl1-1 {
+        width: 310px;
+        margin: 0 auto;
+    }
+    .bl2 {
+        width: 310px;
+        margin: 0 auto;
+    }
+    .bl3 {
+        width: 310px;
+        margin: 0 auto;
+    }
+    .bl4 {
+        width: 310px;
+        margin: 0 auto;
+    }
+    .bl5 {
+        width: 310px;
+        margin: 0 auto;
+    }
+    .bl6 {
+        width: 310px;
+        margin: 0 auto;
+    }
+    .bl7 {
+        width: 310px;
+        margin: 0 auto;
+    }
+    #bl1 {
+        padding: 20px 0;
+    }
+	 #bl1-1 {
+        padding: 20px 0;
+    }
+    .main-text {
+        text-transform: none;
+        letter-spacing: 1px;
+    }
+    #bl7 {
+        padding: 0 0 20px 0;
+    }
+    footer {
+        padding: 20px;
+    }
+}
